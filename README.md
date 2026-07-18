@@ -2,6 +2,12 @@
 
 A modern, animated, multi-page marketing website for **Transet Global Logistics LLC**, a Dubai-based freight-forwarding and supply-chain company. Built in the brand's orange-and-white identity, with HD logistics photography and an interactive 3D globe of the company's trade lanes.
 
+### What's new in this version
+- **Video-style hero** — the home background now plays the cargo journey as a cinematic cross-fading sequence: warehouse → truck → cargo plane → container ship → terminal transfer → warehouse, each with a slow Ken-Burns zoom.
+- **Animated "Active Lanes" panel** — the *One partner accountable for the whole journey* section now shows a live schematic of trade lanes (Dubai↔Singapore, Jebel Ali↔Rotterdam, etc.) with orange pulses travelling each route.
+- **Floating WhatsApp button** — on every page, bottom-right, opens a chat to +971 52 375 9520 with a pre-filled message.
+- **Faster scrolling** — smooth-scroll tuned to feel noticeably snappier.
+
 ---
 
 ## 1. Pages
